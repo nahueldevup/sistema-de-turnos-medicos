@@ -7,10 +7,10 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Comandos para ejecuatar el proyecto en cualquier otra maquina con laravel 12 y mysql:
-composer require laravel/breeze --dev
-npm install 
-npm run dev
-php artisan migrate
-php artisan db:seed
+## Comandos para ejecutar el proyecto en cualquier otra maquina con laravel 12 y mysql:<br>
+composer require laravel/breeze --dev <br>
+npm install <br>
+npm run dev <br>
+php artisan migrate <br>
+php artisan db:seed <br>
 
